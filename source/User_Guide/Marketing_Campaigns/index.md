@@ -89,7 +89,7 @@ Email templates
 <p><strong><a href="{{root_url}}/User_Guide/Marketing_Campaigns/templates.html">Email Templates</a></strong> - Copy and paste your preferred email template HTML into <a href="{{site.marketing_campaigns_url}}/templates">our template builder</a> and then save it. When you’re ready to create
 a campaign, we’ll have your template ready to go with a thumbnail so you can identify and select it quickly and easily.
 </p>
-
+<p><iframe src="https://player.vimeo.com/video/120738522" width="700" height="400" frameborder="0" allowfullscreen=""> </iframe>
 {% anchor h3 %}
 A/B testing
 {% endanchor %}
